@@ -15,7 +15,7 @@ module.exports = defineConfig({
     
     "viewportHeight": 1080,
     "pageLoadTimeout": 120000,
-    //"defaultCommandTimeout": 20000,
+    "defaultCommandTimeout": 20000,
     "baseUrl": "https://opensource-demo.orangehrmlive.com",
     "video": true,
     //"retries":{"openMode":3, "runMode":1},
