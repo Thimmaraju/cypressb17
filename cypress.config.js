@@ -7,7 +7,7 @@ module.exports = defineConfig({
   reporter: 'cypress-mochawesome-reporter',
   e2e: {
 
-    "specPattern": "**/*.feature",
+    //"specPattern": "**/*.feature",
 
     projectId: "ovhqr9",
    // "chromeWebSecurity": false,
