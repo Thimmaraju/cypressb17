@@ -4,6 +4,7 @@ class addEmployeePage{
 
         return 'Add Employee'
      }
+     
 
      firstnameInput(){
 
